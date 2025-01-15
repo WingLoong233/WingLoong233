@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 [![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WingLoong233&theme=solarized)](https://github.com/WingLoong233)
-[![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WingLoong233&theme=solarized)](https://github.com/WingLoong233) [![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WingLoong233&theme=solarized)](https://github.com/WingLoong233)
 [![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=WingLoong233&theme=solarized)](https://github.com/WingLoong233) [![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=WingLoong233&theme=solarized&&utcOffset=8)](https://github.com/WingLoong233)
 
 <!--
