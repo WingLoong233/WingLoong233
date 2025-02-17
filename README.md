@@ -16,8 +16,11 @@ Here are some ideas to get you started:
 -->
 
 [![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WingLoong233&theme=solarized)](https://github.com/WingLoong233)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WingLoong233&theme=solarized)](https://github.com/WingLoong233) [![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WingLoong233&theme=solarized)](https://github.com/WingLoong233)
 [![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=WingLoong233&theme=solarized)](https://github.com/WingLoong233) [![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=WingLoong233&theme=solarized&&utcOffset=8)](https://github.com/WingLoong233)
 
+<!--
 [![](./profile-summary-card-output/solarized/0-profile-details.svg)](https://github.com/WingLoong233)
 [![](./profile-summary-card-output/solarized/1-repos-per-language.svg)](https://github.com/WingLoong233) [![](./profile-summary-card-output/solarized/2-most-commit-language.svg)](https://github.com/WingLoong233)
 [![](./profile-summary-card-output/solarized/3-stats.svg)](https://github.com/WingLoong233) [![](./profile-summary-card-output/solarized/4-productive-time.svg)](https://github.com/WingLoong233)
+-->
